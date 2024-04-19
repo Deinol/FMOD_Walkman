@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{acc7e2de-bbc3-4b0d-b950-a435147c5f94}">
+		<property name="name">
+			<value>LowBoost</value>
+		</property>
+		<relationship name="folder">
+			<destination>{fe1301f4-a9f9-462d-a75e-7511c2b7f830}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f7d5f2cd-5702-4e3f-929c-07f5d35ee4c0}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f7d5f2cd-5702-4e3f-929c-07f5d35ee4c0}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
