@@ -31,6 +31,12 @@ public class EventController : MonoBehaviour
         _id_lowboost = _lowBoost.id;
     }
 
+    private void Update()
+    {
+        if (Input.GetKeyUp(KeyCode.Escape))
+            Application.Quit();
+    }
+
     public void Play()
     {
         _instance.start();

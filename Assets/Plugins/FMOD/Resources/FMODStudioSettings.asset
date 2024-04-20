@@ -536,8 +536,8 @@ MonoBehaviour:
   switchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: ../EjemploFMOD_Walkman/EjemploFMOD_Walkman.fspro
-  sourceBankPath: ../EjemploFMOD_Walkman/Build
+  sourceProjectPath: EjemploFMOD_Walkman/EjemploFMOD_Walkman.fspro
+  sourceBankPath: EjemploFMOD_Walkman/Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 5
   ShowBankRefreshWindow: 1
